@@ -1,6 +1,8 @@
 # Computer-Vision-HKSTP
 Final project with computer vision to determine types of fruits and freshness
 
+> Full Presentation Deck: https://github.com/cathy-thy/Computer-Vision-HKSTP/files/7166702/Final.presentation.pdf
+
 ![Python](https://img.shields.io/badge/Python-%20%20TECH%20%20-blue?style=flat-square&logo=python&labelColor=3776AB&color=grey&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%20%20TECH%20%20-blue?style=flat-square&logo=tensorflow&labelColor=FF6F00&color=grey&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%20%20TECH%20%20-blue?style=flat-square&logo=keras&labelColor=D00000&color=grey&logoColor=white)
@@ -20,3 +22,4 @@ This is a comprehensive project including
 - 3 training flows 
 
 <img src="https://user-images.githubusercontent.com/48180241/133369263-e2ce22b7-cd33-443e-acf6-b37092787a6e.jpg" height="400">
+
