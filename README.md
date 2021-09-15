@@ -19,3 +19,4 @@ This is a comprehensive project including
 - Model training with MobileNetV2 and our own developed CNN model 
 - 3 training flows 
 
+<img src="https://user-images.githubusercontent.com/48180241/133369263-e2ce22b7-cd33-443e-acf6-b37092787a6e.jpg" height="400">
